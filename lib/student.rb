@@ -1,5 +1,7 @@
 class Student < Teacher
   
-  def def 
+  def new 
+   
+  end
 
 end
